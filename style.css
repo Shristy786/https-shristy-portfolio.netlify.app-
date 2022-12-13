@@ -86,6 +86,9 @@ hr{
     color:var(--dark-grey);
     text-align: center;
 }
+ .hero-para{
+    padding-left: 7.5rem;
+}
 
 .section{
     padding: 2rem;
